@@ -1,4 +1,4 @@
-# ML-ASSIGNMENT SHIVANK
+# ML-ASSIGNMENT OMPAL
 # Data Analysis and Modeling Examples
 
 This repository contains examples of data analysis and modeling using Python. It includes code snippets for working with datasets, splitting data, training models, and evaluating performance. The examples use the Iris dataset and a sample dataset for linear regression.
